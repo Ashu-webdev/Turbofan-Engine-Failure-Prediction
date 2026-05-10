@@ -9,6 +9,9 @@ This project focuses on predicting turbofan engine failures using machine learni
 
 The project uses the CMAPSS (Commercial Modular Aero-Propulsion System Simulation) dataset obtained from Kaggle. The dataset is divided into training, testing, and RUL files for predictive maintenance analysis.
 
+Dataset Link: 
+https://drive.google.com/drive/folders/1tgdmEHXZ9QbixiGqX2FnuE1uzR-Pvf-G?usp=sharing
+
 ### Train Dataset
 The training dataset contains time-series sensor readings and operational settings for multiple turbofan engines from their initial operational cycle until system failure.
 
@@ -17,6 +20,7 @@ The test dataset contains sensor and operational data for engines up to a point 
 
 ### RUL Dataset
 The RUL (Remaining Useful Life) dataset provides the actual remaining operational cycles for each engine in the test dataset.
+
 
 ---
 
